@@ -1,0 +1,6 @@
+# Dogachi Studio — genuine app signatures (Google Play App Signing).
+# One SHA-256 per line. Lines that are not a 64-char hex value are ignored.
+# Do NOT change unless your Play signing/upload keys change.
+4E:E5:C1:25:E5:DF:16:3F:1D:7C:28:7A:B7:51:79:0F:21:79:B7:FC:B9:9D:A3:2B:7A:DB:BB:E9:DC:6B:0E:3C
+93:33:25:17:39:92:9E:ED:25:4E:F1:50:FC:DB:6E:FC:6C:CE:8C:F8:EB:B9:A6:FE:61:EC:59:F5:7B:4B:67:B0
+21:78:97:5B:50:7E:73:05:A4:85:4F:59:93:5C:00:96:30:94:DD:5E:E6:E3:98:94:1D:56:65:A8:58:D4:85:4F
